@@ -26,7 +26,7 @@ tree = {
     "node_000": ['node_035', 'node_024'],
     "node_024": ['node_035', 'node_002'],
     "node_002": ['node_035', 'node_011'],
-    "node_035": ['node_011', 'node_032'],
+    "node_035": ['node_032', 'node_011'],
     "node_006": ['node_025', 'node_031'],
     "node_012": [],
     "node_023": ['node_033', 'node_009'],
